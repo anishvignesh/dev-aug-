@@ -1,0 +1,48 @@
+[33mcommit e801387f538555e74f6f2c7bd2c74535c8bffade[m[33m ([m[1;36mHEAD -> [m[1;32mb6[m[33m)[m
+Merge: 43368a1 d197cda
+Author: vicky <vigneshmadhavan@gmail.com>
+Date:   Thu Aug 3 14:36:23 2023 +0000
+
+    Merge branch 'master' into b6
+
+[33mcommit 43368a10c63a109479047a97ff8c3dc750de50ac[m[33m ([m[1;31morgin/b5[m[33m, [m[1;32mb5[m[33m)[m
+Author: vicky <vigneshmadhavan@gmail.com>
+Date:   Thu Aug 3 14:23:03 2023 +0000
+
+    b5 1st commit
+
+[33mcommit d197cda1cb4ec91cd62a2d9ae12994fb682a6f9e[m[33m ([m[1;32mmaster[m[33m)[m
+Author: vicky <vigneshmadhavan@gmail.com>
+Date:   Thu Aug 3 14:19:16 2023 +0000
+
+    7thfile
+
+[33mcommit c210ec5670df3b03a5a21e120b22481e8cf4338e[m[33m ([m[1;31morgin/new[m[33m, [m[1;32mnew[m[33m, [m[1;32mb3[m[33m, [m[1;32mb2[m[33m)[m
+Author: Vicky <vigneshmadhavan@gmail.com>
+Date:   Mon Jul 31 17:19:16 2023 +0000
+
+    new_1st commit
+
+[33mcommit fcf3c67eeca573c9b38c05f0cd8d0b1b5e2683f3[m[33m ([m[1;31morgin/master[m[33m)[m
+Author: Vicky <vigneshmadhavan14@gmail.com>
+Date:   Mon Jul 31 16:48:45 2023 +0000
+
+    4th commit
+
+[33mcommit 37ef4642ad88021383d1630228bfab1963b8fece[m
+Author: root <root@ip-172-31-43-122.ap-south-1.compute.internal>
+Date:   Mon Jul 31 16:39:48 2023 +0000
+
+    3rd com
+
+[33mcommit 3de326dbf1cf18ac143e74ea0f8d28033fe96e9b[m
+Author: root <root@ip-172-31-43-122.ap-south-1.compute.internal>
+Date:   Mon Jul 31 16:39:00 2023 +0000
+
+    2nd com
+
+[33mcommit 9219a10ee5bd0ec526447dea09f9fbc8099ffd69[m
+Author: root <root@ip-172-31-43-122.ap-south-1.compute.internal>
+Date:   Mon Jul 31 16:32:46 2023 +0000
+
+    new commit
